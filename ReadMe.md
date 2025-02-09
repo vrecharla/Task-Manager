@@ -20,7 +20,7 @@ Make sure you have the following installed before proceeding:
 
 ## Backend Setup (Node.js + Express)
 
-### 1. Navigate to the Project Directory
+### 1. Navigate to the Project Directory(task-manager)
 
 ```bash
 mkdir task-manager
@@ -57,7 +57,7 @@ The backend API will now be available at `http://localhost:5000`.
 
 ## Frontend Setup (React.js)
 
-### 1. Navigate Back to Root and Create React App
+### 1. Navigate Back to Project directory(task-manager) and Create React App
 
 ```bash
 cd ..
